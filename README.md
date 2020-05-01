@@ -8,6 +8,8 @@ Use the ncbi genome information by organism [page](https://www.ncbi.nlm.nih.gov/
 - Make sure you download the 'Eukaryotes' filtered version as it is this file which contains the links for each genome assembly.
 - File is downloaded in a csv format.
 
+The file included in this repository contains 142 whole genome assemblies of Rodents as available on 27-Apr-2020_12-29.
+
 ## Converting csv to tsv
 This step is necessary in order to be able to separate the fields of the summary text file to have just the GenBank ftp field. 
 - This is done by replacing the commas (CSV = comma-separated value file) to tabs (TSV = tab-separated value field)
